@@ -33,9 +33,9 @@ h1 {
 }
 
 .upper_body {
-    width: 300px;
     height: 150px;
     display: flex;
+    justify-content: center;
 }
 
 .left_arm, .right_arm {
@@ -85,7 +85,7 @@ h1 {
 }
 
 .right_leg {
-    margin-left: 30px;
+    margin-left: 100px
 }
 
 .left_eye, .right_eye {
@@ -106,8 +106,8 @@ h1 {
 
 .right_eye {
     position: relative;
-    top: 100px;
-    left: 120px;
+    top: 80px;
+    left: 140px;
 }
 
 
